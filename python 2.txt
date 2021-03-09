@@ -1,0 +1,8 @@
+product="003-87464-78976"
+cc=product[0:3]
+pc=product[4:9]
+bn=product[11:17]
+print(cc)
+print(pc)
+print(bn)
+ 

@@ -1,0 +1,8 @@
+str="aba"
+
+a=1;
+b=2;
+
+sum=a+b+a;
+
+print(sum);
