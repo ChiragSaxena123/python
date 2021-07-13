@@ -1,0 +1,5 @@
+import random
+otplen=int(input("enter the lenght of otp"))
+s="0123456789"
+p="".join(random.sample(s,passlen))
+print(p)
